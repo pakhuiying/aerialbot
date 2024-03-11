@@ -25,7 +25,9 @@ Source: [doersino/aerialbot](https://github.com/doersino/aerialbot)
 ### Examples
 
 ![2024-01-22](/aerialbot-2024-01-22T12.25.29-downward-1.319335,103.737142-2000x2000m-z20.jpg) 
+
 Image retrieved from 22nd Jan 2024 at southwest and northeast corner coordinates: `(1.319010, 103.736650)` and `(1.319806, 103.737532)`, respectively.
 
 ![2024-02-11](/aerialbot-2024-02-11T17.00.57-downward-1.319335,103.737142-2000x2000m-z20.jpg) 
+
 Image retrieved from 11st Feb 2024 at southwest and northeast corner coordinates: `(1.319000, 103.736650)` and `(1.319806, 103.737532)`, respectively.
